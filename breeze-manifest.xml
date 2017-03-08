@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<breeze-manifest version="1.0">
+	<document type="slide-presentation" icon="presentation" duration="270" section-count="54"/>
+	<assets>
+		<asset type="document-view">
+			<entry href="viewer.swf" width="960" height="550"/>
+			
+<file href="data"/>
+<file href="breeze-manifest.xml"/>
+<file href="viewer.swf"/>
+<file href="as2-wrapper.swf"/>
+<file href="components.swf"/>
+<file href="loadflash.js"/>
+<file href="browsersniff.js"/>
+<file href="SCORM_utilities.js"/>
+<file href="standard.js"/>
+<file href="Utilities.js"/>
+
+           this must match previsely; the C++ code looks for this pattern 
+        </asset>
+		<asset type="document-metadata" location="file">
+			<file href="data/srchdata.xml"/>
+		</asset>
+	</assets>
+</breeze-manifest>
